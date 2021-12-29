@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 10rem;
+}
+
+body input {
+    width: 90vw;
+    font-size: 4vh;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
